@@ -60,5 +60,14 @@ class IceCreamConfig(AppConfig):
 INSTALLED_APPS = [
     'posts.apps.IceCreamConfig',  # Добавленная запись
 
+###  Роутинг запросов в urls.py и проектирование структуры адресов
+
+
+
+
+
+
+
+
 ### Авторы
 Андрей, Стёпа, Лера и Максим 
